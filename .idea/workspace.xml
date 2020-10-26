@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74663d5e-c794-4d0b-a487-546d8b2fccee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/russian-travel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cover-trains.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/header-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lead-polka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-arisa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-atharva-tulsi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-baikal-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-baikal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-elbrus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-ergaki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-kamchatka-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-kamchatka-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-kondratiev.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-sochi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-train.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-tuman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-altai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-karelia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-kolsky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-kosa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-winter-baikal.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jQGT5z29s5NULqrJAKouSMIBPe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74663d5e-c794-4d0b-a487-546d8b2fccee" name="Default Changelist" comment="" />
+      <created>1603728906686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603728906686</updated>
+      <workItem from="1603728907858" duration="661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
