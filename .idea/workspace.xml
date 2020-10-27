@@ -33,11 +33,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jQGT5z29s5NULqrJAKouSMIBPe" />
@@ -71,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603728906686</updated>
       <workItem from="1603728907858" duration="4830000" />
-      <workItem from="1603803410719" duration="1628000" />
+      <workItem from="1603803410719" duration="300000" />
     </task>
     <servers />
   </component>
@@ -92,6 +87,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="fix: add alt for lead__image" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: add alt for lead__image" />
   </component>
   <component name="WindowStateProjectService">
     <state x="553" y="161" key="#Plugins" timestamp="1603803421505">
