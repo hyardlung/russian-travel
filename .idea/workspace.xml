@@ -26,7 +26,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74663d5e-c794-4d0b-a487-546d8b2fccee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang-switcher/header__lang-switcher.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__lang-switcher/header__lang-switcher.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
