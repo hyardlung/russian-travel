@@ -24,14 +24,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="74663d5e-c794-4d0b-a487-546d8b2fccee" name="Default Changelist" comment="" />
-=======
     <list default="true" id="74663d5e-c794-4d0b-a487-546d8b2fccee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang-switcher/header__lang-switcher.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__lang-switcher/header__lang-switcher.css" afterDir="false" />
     </list>
->>>>>>> feature/header
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,8 +89,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="fix: add alt for lead__image" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: add alt for lead__image" />
   </component>
   <component name="WindowStateProjectService">
     <state x="553" y="161" key="#Plugins" timestamp="1603803421505">
@@ -104,5 +99,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="416" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603799375941" />
+    <state x="599" y="282" key="MultipleFileMergeDialog" timestamp="1603809735427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="599" y="282" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603809735427" />
   </component>
 </project>
