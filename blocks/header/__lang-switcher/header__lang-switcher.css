@@ -1,0 +1,6 @@
+.header__lang-switcher {
+  margin-top: 18px;
+  padding: 0;
+  display: flex;
+  list-style: none;
+}
