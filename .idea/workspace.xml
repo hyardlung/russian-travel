@@ -16,20 +16,17 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74663d5e-c794-4d0b-a487-546d8b2fccee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/body/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/body/body.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lead-polka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lead-polka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
