@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="74663d5e-c794-4d0b-a487-546d8b2fccee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/russian-travel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cover-trains.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/header-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lead-polka.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-arisa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-atharva-tulsi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-baikal-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-baikal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-elbrus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-ergaki.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-kamchatka-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-kamchatka-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-kondratiev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-sochi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-train.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-tuman.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/place-altai.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/place-karelia.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/place-kolsky.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/place-kosa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/place-winter-baikal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/body/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/body/body.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lead-polka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lead-polka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -62,7 +69,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603728906686</updated>
-      <workItem from="1603728907858" duration="661000" />
+      <workItem from="1603728907858" duration="4830000" />
+      <workItem from="1603803410719" duration="300000" />
     </task>
     <servers />
   </component>
@@ -79,8 +87,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="161" key="#Plugins" timestamp="1603803421505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="161" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1603803421505" />
+    <state x="416" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603799375941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="416" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603799375941" />
   </component>
 </project>
