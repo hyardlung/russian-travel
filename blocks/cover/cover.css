@@ -4,7 +4,6 @@
   height: 740px;
   padding-top: 250px;
   background: url('../../images/cover-trains.jpg') center center/cover no-repeat;
-  cursor: pointer;
 }
 
 .cover::after {
