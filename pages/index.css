@@ -49,3 +49,9 @@
 @import url('../blocks/content/__cover/content__cover.css');
 @import url('../blocks/cover/__title/cover__title.css');
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
+
+/* footer */
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__nav/footer__nav.css');
+@import url('../blocks/footer/__nav-list/footer__nav-list.css');
+@import url('../blocks/footer/__link/footer__link.css');
