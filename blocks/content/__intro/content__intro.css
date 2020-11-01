@@ -1,3 +1,22 @@
 .content__intro {
-  margin-top: 95px;
+  margin: 97px auto 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .content__intro {
+    margin-left: 4.7vw;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .content__intro {
+    margin-top: 91px;
+    margin-left: clamp(16px, 3vw, 3.1vw);
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .content__intro {
+    margin-top: 67px;
+  }
 }

@@ -1,3 +1,21 @@
 .content__lead {
-  margin-top: 61px;
+  margin: 64px auto 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .content__lead {
+    margin: 56px 48px 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .content__lead {
+    margin: 57px 0 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .content__lead {
+    margin: 51px 0 0;
+  }
 }

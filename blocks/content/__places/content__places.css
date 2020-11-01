@@ -1,3 +1,27 @@
 .content__places {
-  margin-top: 92px;
+  margin: 95px auto 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .content__places {
+    margin: 95px clamp(24px, 4.7vw, 48px) 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .content__places {
+    margin: 90px clamp(16px, 3.3vw, 30px) 0;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .content__places {
+    margin-top: clamp(64px, 13.4vw, 80px);
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .content__places {
+    margin: 64px 0 0;
+  }
 }

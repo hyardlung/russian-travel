@@ -6,3 +6,24 @@
   text-align: center;
   color: #fff;
 }
+
+@media screen and (max-width: 768px) {
+  .lead__subtitle {
+    max-width: 65vw;
+    font-size: 3.9vw;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .lead__subtitle {
+    max-width: 82vw;
+    font-size: 5vw;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__subtitle {
+    margin-top: 14px;
+    line-height: 1.25;
+  }
+}

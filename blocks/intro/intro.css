@@ -1,4 +1,9 @@
 .intro {
-  width: calc(100% - 296px);
-  margin: 0 auto;
+  max-width: 984px;
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    
+  }
 }

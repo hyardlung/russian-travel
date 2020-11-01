@@ -1,7 +1,23 @@
 .place {
   display: grid;
-  grid-template-columns: fit-content(440px) 1fr;
+  grid-template-columns: fit-content(460px) 1fr;
   column-gap: 40px;
-  row-gap: 48px;
+  row-gap: 42px;
   color: #fff;
+}
+
+@media screen and (max-width: 1024px) {
+  .place {
+    grid-template-columns: clamp(340px, 43vw, 440px) 1fr;
+    column-gap: clamp(28px, 3.7vw, 32px);
+    row-gap: 43px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .place {
+    grid-template-columns: fit-content(100%);
+    grid-template-rows: repeat(3,auto);
+    gap: 32px;
+  }
 }

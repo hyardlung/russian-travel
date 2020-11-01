@@ -1,3 +1,15 @@
 .content__photo-grid {
-  margin-top: 93px;
+  margin: 93px auto 0;
+}
+
+@media screen and (max-width: 768px) {
+  .content__photo-grid {
+    margin: 90px clamp(16px, 3.3vw, 30px) 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .content__photo-grid {
+    margin-top: 67px;
+  }
 }

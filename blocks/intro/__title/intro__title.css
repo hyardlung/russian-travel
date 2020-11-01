@@ -5,3 +5,16 @@
   font-weight: 900;
   color: #fff;
 }
+
+@media screen and (max-width: 768px) {
+  .intro__title {
+    font-size: clamp(32px, 7.1vw, 54px);
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro__title {
+    max-width: 70vw;
+    line-height: 1.08;
+  }
+}
