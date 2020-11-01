@@ -1,0 +1,36 @@
+.footer__name {
+  margin: 0 15px 0 0;
+  position: relative;
+  text-align: end;
+}
+
+.footer__name::after {
+  content: '';
+  display: block;
+  width: 1px;
+  height: 20px;
+  position: absolute;
+  top: 0;
+  right: -8px;
+  background-color: #fff;
+}
+
+@media screen and (max-width: 900px) {
+  .footer__name {
+    margin: 0;
+  }
+
+  .footer__name::after {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .footer__name {
+    margin-right: 15px;
+  }
+
+  .footer__name::after {
+    display: block;
+  }
+}

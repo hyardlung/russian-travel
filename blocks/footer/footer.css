@@ -2,6 +2,18 @@
   max-width: 1184px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   color: #fff;
+}
+
+@media screen and (max-width: 900px) {
+  .footer {
+    align-items: flex-start;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .footer {
+    flex-direction: column;
+  }
 }

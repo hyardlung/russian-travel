@@ -58,8 +58,10 @@
 
 /* footer */
 @import url('../blocks/footer/footer.css');
-@import url(../blocks/content/__footer/content__footer.css);
+@import url('../blocks/content/__footer/content__footer.css');
 @import url('../blocks/footer/__nav-list/footer__nav-list.css');
 @import url('../blocks/footer/__nav-item/footer__nav-item.css');
 @import url('../blocks/footer/__link/footer__link.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
+@import url('../blocks/footer/__name/footer__name.css');
 @import url('../blocks/footer/__alias/footer__alias.css');

@@ -1,3 +1,27 @@
 .content__footer {
-  margin: 92px 48px  24px;
+  margin: 92px 48px 24px;
+}
+
+@media screen and (max-width: 1024px) {
+  .content__footer {
+    margin: 80px clamp(24px, 4.7vw, 48px);
+    margin-bottom: 24px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .content__footer {
+    margin: 89px 24px 24px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .content__footer {
+    margin-top: 64px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .content__footer {
+    margin: 64px 16px 24px;
+  }
 }

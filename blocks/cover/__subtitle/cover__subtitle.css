@@ -8,3 +8,18 @@
   color: #fff;
   z-index: 1;
 }
+
+@media screen and (max-width: 768px) {
+  .cover__subtitle {
+    max-width: clamp(275px, 46.9vw, 360px);
+    font-size: clamp(14px, 2.4vw, 18px);
+    line-height: clamp(114%, 2.9vw, 122%);
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__subtitle {
+    margin-top: 17px;
+
+  }
+}
