@@ -1,7 +1,7 @@
 .cover {
   box-sizing: border-box;
   position: relative;
-  height: 62.5vw;
+  height: min(58.2vw, 740px);
   padding-top: clamp(200px, 20vw, 254px);
   background: url('../../images/cover-trains.jpg') center center/cover no-repeat;
 }
@@ -20,6 +20,12 @@
 
 .cover:hover::after {
   opacity: .8;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    height: min(62.5vw, 740px);
+  }
 }
 
 @media screen and (max-width: 768px) {
