@@ -1,11 +1,11 @@
-.content__header {
+.page__header {
   margin-top: 28px;
   margin-right: clamp(24px, 6vw, 48px);
   margin-left: clamp(24px, 6vw, 48px);
 }
 
 @media screen and (max-width: 768px) {
-  .content__header {
+  .page__header {
     margin-top: clamp(16px, 4vw, 28px);
     margin-right: clamp(16px, 5vw, 24px);
     margin-left: clamp(16px, 5vw, 24px);
