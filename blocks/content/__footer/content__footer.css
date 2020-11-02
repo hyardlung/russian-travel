@@ -4,7 +4,7 @@
 
 @media screen and (max-width: 1024px) {
   .content__footer {
-    margin: 80px clamp(24px, 4.7vw, 48px);
+    margin: 92px clamp(24px, 4.7vw, 48px);
     margin-bottom: 24px;
   }
 }
